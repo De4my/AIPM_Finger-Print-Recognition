@@ -1,5 +1,4 @@
-# AIPM_Finger-Print-Recognition
-## PROJECT OVERVIEW
+# PROJECT OVERVIEW
 ## A. DEFINING THE PROJECT
 ### Project Summary
 Any company requires some security features to ensure that some of the confidential information about their work did not expose to their rival company.
