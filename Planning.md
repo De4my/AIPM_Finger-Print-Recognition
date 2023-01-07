@@ -1,6 +1,16 @@
 ## PROJECT PLANNING
 ### Project Management Life Cycle
 Project Management Life Cycle is an overview of the project is provided by the project life cycle, and the phases are adapted to the project's requirements to create a roadmap for completion. Project initiation, planning, execution, monitoring & control, and closing are the five stages that make up the project management life cycle.
+
+Gantt Chart:
+![image](https://user-images.githubusercontent.com/116957596/211139678-d56a89a8-587b-455e-8c45-f5d256c25780.png)
+![image](https://user-images.githubusercontent.com/116957596/211139723-f846760f-6f59-4126-9282-17f66c64f018.png)
+![image](https://user-images.githubusercontent.com/116957596/211140010-ffd95d27-6ef6-43d9-81e2-bf5b6c8aa458.png)
+![image](https://user-images.githubusercontent.com/116957596/211140074-b9761259-2a2e-4bd0-8df2-25b601b7c57d.png)
+![image](https://user-images.githubusercontent.com/116957596/211140090-3a892b44-cddc-4ce9-abdc-47c873b222f0.png)
+![image](https://user-images.githubusercontent.com/116957596/211140128-45aefe21-f9f7-4816-b6fb-d7a5f56bad15.png)
+
+
 ### Risk Identification Chart
 | Control Element | Issue | How and when will it likely go wrong? | Solution |
 |:---:|----|-------|-----|
