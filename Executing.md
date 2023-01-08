@@ -6,7 +6,7 @@ Link:https://www.codespeedy.com/fingerprint-detection-in-python/ <br>
 import library in python:<br>
 ![image](https://user-images.githubusercontent.com/116957596/211174760-35b2ab64-610c-470d-80af-6fa5bd5092cc.png)
 
-Viewing the test file(fingerprint to be matched)
+Viewing the test file(fingerprint to be matched)<br>
 ![image](https://user-images.githubusercontent.com/116957596/211174777-a1b1f548-ea02-4eed-8f0f-f2e5aa12aa03.png)<br>
 
 Output:<br>
