@@ -1,4 +1,4 @@
-## PROJECT PLANNING
+## B.PROJECT PLANNING
 ### Project Management Life Cycle
 Project Management Life Cycle is an overview of the project is provided by the project life cycle, and the phases are adapted to the project's requirements to create a roadmap for completion. Project initiation, planning, execution, monitoring & control, and closing are the five stages that make up the project management life cycle.
 
