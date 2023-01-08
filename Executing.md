@@ -3,6 +3,9 @@
 Credit to CodeSpeedy by Vikrant Dey<br>
 Link:https://www.codespeedy.com/fingerprint-detection-in-python/ <br>
 
+Flowchart:<br>
+![image](https://user-images.githubusercontent.com/116957596/211175908-2e7124a4-7b5d-4b59-a0ed-92a20f16449e.png)
+
 import library in python:<br>
 ![image](https://user-images.githubusercontent.com/116957596/211174760-35b2ab64-610c-470d-80af-6fa5bd5092cc.png)
 
