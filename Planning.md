@@ -20,6 +20,10 @@ Gantt Chart:
 
 ### Responsibility Assignment Matrices (RAM)
 
+![image](https://user-images.githubusercontent.com/116957596/211286659-bc805479-cae5-4026-b400-703caec5c352.png)
+![image](https://user-images.githubusercontent.com/116957596/211286757-3467aa69-405d-44e7-8d8c-c47c4e860863.png)
+![image](https://user-images.githubusercontent.com/116957596/211286881-410c22fa-ade5-4a8c-83e6-fdb29ea129c1.png)
+![image](https://user-images.githubusercontent.com/116957596/211286986-29ba743d-6c30-48f1-9a55-ac67223ebc4b.png)
 
 | Roles | Person In Charge | Responsibilities |
 |:---:|----|-------|
