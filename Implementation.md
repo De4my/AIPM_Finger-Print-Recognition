@@ -32,3 +32,5 @@ A database of fingerprints is used and attempt to match a certain fingerprint to
 |TOTAL| $18,919,680 |||
 
 ## Milestone Chart
+
+![image]([https://docs.opencv.org/4.x/sift_dog.jpg](https://raw.githubusercontent.com/De4my/AIPM_Finger-Print-Recognition/main/projectmilestone%20.png))
