@@ -32,5 +32,7 @@ A database of fingerprints is used and attempt to match a certain fingerprint to
 |TOTAL| $18,919,680 |||
 
 ### Milestone Chart
-
 ![image](https://github.com/De4my/AIPM_Finger-Print-Recognition/blob/main/projectMilestone.png)
+<br>
+
+[Project Execution](Execution.md)
