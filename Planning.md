@@ -43,3 +43,6 @@ Responsibility Assignment Matrix (RAM), also known as a RACI chart or RACI matri
 |Financial Analyst|Parsad A/L Ragunathan|A financial analyst's primary responsibility is to sift through data in order to find opportunities or assess results in order to make business choices or investment recommendations. Within a company, financial analysts can have both junior and senior positions, and it's a speciality that frequently opens doors to different job prospects.|
 |Administrative Manager|Ban Li Xian|Administrative managers both perform these tasks directly and supervise the work of other administrative and clerical workers. Schedule management, payroll and personnel database management, report creation, and other clerical tasks are all performed by administrative managers. Additionally, this position necessitates intensive cooperation and communication with other members of staff and departments, including senior-level executives.|
 |AI Engineer|Muhammad Firdaus Aiman Bin Mohd Yasin, <br> Ban Li Xian, <br> Parsad A/L Ragunathan|Engineers that specialise in artificial intelligence (AI) and machine learning create software and systems that can improve productivity, reduce expenses, boost revenue, and help businesses make better decisions.|
+<br>
+
+[Project Implementation](Implementation.md)
