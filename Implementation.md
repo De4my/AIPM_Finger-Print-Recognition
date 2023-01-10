@@ -33,4 +33,4 @@ A database of fingerprints is used and attempt to match a certain fingerprint to
 
 ## Milestone Chart
 
-![image](https://github.com/De4my/AIPM_Finger-Print-Recognition/blob/main/projectmilestone%20.png)
+![image](https://github.com/De4my/AIPM_Finger-Print-Recognition/blob/main/projectMilestone.png)
