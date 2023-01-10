@@ -17,3 +17,6 @@ Fingerprint recognition system is a system that delivers reliable security featu
 ### Objectives:
 * To improve the features of security for related company
 * To develop a system that recognizes fingerprint pattern
+<br>
+
+[Project Planning](Planning.md)
