@@ -10,6 +10,10 @@ Project Management Life Cycle is an overview of the project is provided by the p
 ![image](https://user-images.githubusercontent.com/116957596/211140090-3a892b44-cddc-4ce9-abdc-47c873b222f0.png)
 ![image](https://user-images.githubusercontent.com/116957596/211140128-45aefe21-f9f7-4816-b6fb-d7a5f56bad15.png)
 
+### WBS:<br><br>
+![image](https://user-images.githubusercontent.com/116957596/211562702-e64c4b49-93c6-4d67-a101-95674e147fd0.png)
+
+
 
 ### Risk Identification Chart
 | Control Element | Issue | How and when will it likely go wrong? | Solution |
