@@ -6,6 +6,8 @@
 ![image](https://user-images.githubusercontent.com/116957596/211549156-bd8a1104-736f-43e0-8051-2290268ec3a5.png)
 
 #### 2. Lessons Learned Document<br><br>
+![image](https://user-images.githubusercontent.com/116957596/211793272-6ba98156-78ad-4252-b97d-2ae0af9770d8.png)
+![image](https://user-images.githubusercontent.com/116957596/211793373-5b9ef65f-e5df-4748-8fc1-70970e245013.png)
 
 #### 3. Final Report<br>
 #### FINGERPRINT RECOGNITION SYSTEM
