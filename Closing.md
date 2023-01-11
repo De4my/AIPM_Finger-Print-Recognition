@@ -24,5 +24,10 @@ The initial plan are executed since there are no changes during the execution of
 ![image](https://user-images.githubusercontent.com/116957596/211140090-3a892b44-cddc-4ce9-abdc-47c873b222f0.png)
 ![image](https://user-images.githubusercontent.com/116957596/211140128-45aefe21-f9f7-4816-b6fb-d7a5f56bad15.png)
 
+#### 3.4 ORIGINAL AND ACTUAL BUDGET
+The actual budget matches the original cost,since there are no changes of the activity in the project that require additional cost.<br><br>
+![image](https://user-images.githubusercontent.com/116957596/211687833-a967a0b9-9552-40af-a974-9c97b8cb7105.png)
+
+
 #### 4.Close Contract<br><br>
 ![close contract](https://user-images.githubusercontent.com/121373554/211574025-68293a14-b921-438a-b130-a0f75e99f396.PNG)
